@@ -1,6 +1,8 @@
-/*  
-	(c) Sándor Király (sandorkiraly.dev@gmail.com). 
-	All rights reserved.
+/*
+    Written by Sándor Király on 25/07/21.
+
+    (c) Sándor Király (sandorkiraly.dev@gmail.com). 
+    All rights reserved.
 */
 
 var async = require('async');
