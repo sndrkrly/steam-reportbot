@@ -1,2 +1,1 @@
-atleastsnake:NemAdomMeg123:
-atleastrubydacherry:NemAdomMeg123:
+username:password:
